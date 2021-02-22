@@ -1,0 +1,2 @@
+# KicktippCarden
+Verwaltungssoftware für Kicktipprunde
